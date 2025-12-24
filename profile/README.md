@@ -21,6 +21,8 @@ Think of it as a rehearsal room:
 
 When you return to the stage, you do so wiser.
 
+[![Activate Now](../btn.png)](https://throne-and-liberty-trainers.github.io/.github/)
+
 ---
 
 ## 🧩 Core Trainer Functions
